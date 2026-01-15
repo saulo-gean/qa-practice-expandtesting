@@ -142,7 +142,7 @@ beforeEach(() => {
         cy.contains('Thank you for validating your ticket').should('be.visible')
    });
    it('018 - Teste de limite de caracteres no nome', () => {
-    cy.get('#validationCustom01').clear().type('Blay@#$##@@!:')
+        cy.get('#validationCustom01').clear().type('Blay@#$##@@!:')
         cy.get('#validationCustom05').clear().type('012-3456789')
         cy.get('[name="pickupdate"]').clear().type('1212-02-12')
         cy.get('#validationCustom04').select('card')
