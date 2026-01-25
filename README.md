@@ -47,7 +47,7 @@ Projeto desenvolvido com o objetivo de consolidar os fundamentos de QA e demonst
 📄 Currículo
 
 👉 Currículo – QA Júnior (PDF)
-https://drive.google.com/file/d/1e87wFeqwpvyQIIpQg-2EgLQQxiox22vL/view
+https://drive.google.com/file/d/1e87wFeqwpvyQIIpQg-2EgLQQxiox22vL/view?usp=drivesdk
 
 🌐 Conecte-se comigo
 
