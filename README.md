@@ -1,7 +1,6 @@
 👋 Olá, eu sou o Saulo Gean
 
-Sou Analista de Suporte N1 em transição para QA (Analista de Qualidade), com foco em garantir qualidade, estabilidade e uma boa experiência para o usuário final.
-Tenho experiência prática com testes manuais, testes de API e automação, atuando na identificação, registro e validação de bugs. Atualmente desenvolvo projetos com Cypress e JavaScript, voltados para aprendizado e boas práticas de QA.
+Sou profissional focado em ingressar na área de QA (Analista de Qualidade), com atenção à qualidade, estabilidade e à melhor experiência para o usuário final. Possuo experiência prática em testes manuais, testes de API e automação de testes, atuando na identificação, registro e validação de bugs. Desenvolvo projetos utilizando Cypress e JavaScript, aplicando boas práticas de QA, organização de cenários de teste e aprendizado contínuo em qualidade de software.
 
 ✨ Sobre mim
 
